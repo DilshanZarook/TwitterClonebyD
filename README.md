@@ -1,2 +1,2 @@
 # TwitterClonebyD
-Cloning the twitter application and building from the scratch.
+Building a Twitter clone application from scratch.
